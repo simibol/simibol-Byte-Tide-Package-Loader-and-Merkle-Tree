@@ -1,0 +1,9 @@
+ident:72f3be292e31db30421396eabd6b5b0a2f346bca72a8848be39bc0b56e486708
+filename:single_test.data
+size:4096
+nhashes:1
+hashes:
+    4e4dcf5cb1f3cfb33e5b93f760f79fc34a5b627454081f586685b808b972107e
+nchunks:1
+chunks:
+    4e4dcf5cb1f3cfb33e5b93f760f79fc34a5b627454081f586685b808b972107e,0,4096
